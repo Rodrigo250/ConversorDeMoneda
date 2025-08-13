@@ -21,3 +21,20 @@ Obtiene tasas de cambio en tiempo real a través de una **API de tipo de cambio*
    ```bash
    git clone https://github.com/tuusuario/conversor-monedas.git
    cd conversor-monedas
+
+🌍 API utilizada
+El proyecto obtiene datos desde ExchangeRate API (o la API que estés usando) para acceder a tasas de cambio actualizadas.
+
+📸 Ejemplo de ejecución
+=== Bienvenido al Conversor de Monedas ===
+1. Ver lista de monedas
+2. Realizar conversión
+3. Ver historial de conversiones
+4. Salir
+
+📜 Licencia
+Este proyecto está bajo la licencia MIT.
+Eres libre de usarlo, modificarlo y distribuirlo.
+
+💡 Autor: Rodrigo Linares
+
