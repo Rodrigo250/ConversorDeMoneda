@@ -26,6 +26,7 @@ Obtiene tasas de cambio en tiempo real a través de una **API de tipo de cambio*
 El proyecto obtiene datos desde ExchangeRate API (o la API que estés usando) para acceder a tasas de cambio actualizadas.
 
 📸 Ejemplo de ejecución
+
 === Bienvenido al Conversor de Monedas ===
 1. Ver lista de monedas
 2. Realizar conversión
